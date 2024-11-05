@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogekiuqi.github.io/ZhN/sitemap_index.txt
+Sitemap: https://ogekiuqi.github.io/afL/sitemap_index.txt
+Sitemap: https://ogekiuqi.github.io/bvP/sitemap_index.txt
+Sitemap: https://ogekiuqi.github.io/fHA/sitemap_index.txt
